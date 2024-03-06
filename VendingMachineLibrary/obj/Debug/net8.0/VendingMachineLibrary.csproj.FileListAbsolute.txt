@@ -1,0 +1,11 @@
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\bin\Debug\net8.0\VendingMachineLibrary.deps.json
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\bin\Debug\net8.0\VendingMachineLibrary.dll
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\bin\Debug\net8.0\VendingMachineLibrary.pdb
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\VendingMachineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\VendingMachineLibrary.AssemblyInfoInputs.cache
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\VendingMachineLibrary.AssemblyInfo.cs
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\VendingMachineLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\VendingMachineLibrary.dll
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\refint\VendingMachineLibrary.dll
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\VendingMachineLibrary.pdb
+D:\Documents\Job_Projects_And_CV\GithubProjects\VendingMachineGameConsole\VendingMachineLibrary\obj\Debug\net8.0\ref\VendingMachineLibrary.dll

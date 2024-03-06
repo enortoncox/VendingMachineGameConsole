@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VendingMachineGameConsole/1.0.0": {
+        "dependencies": {
+          "VendingMachineLibrary": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachineGameConsole.dll": {}
+        }
+      },
+      "VendingMachineLibrary/1.0.0": {
+        "runtime": {
+          "VendingMachineLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachineGameConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachineLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

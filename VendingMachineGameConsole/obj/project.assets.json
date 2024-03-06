@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "VendingMachineLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VendingMachineLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VendingMachineLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachineLibrary/1.0.0": {
+      "type": "project",
+      "path": "../VendingMachineLibrary/VendingMachineLibrary.csproj",
+      "msbuildProject": "../VendingMachineLibrary/VendingMachineLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "VendingMachineLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Elija\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Documents\\Job_Projects_And_CV\\GithubProjects\\VendingMachineGameConsole\\VendingMachineGameConsole\\VendingMachineGameConsole.csproj",
+      "projectName": "VendingMachineGameConsole",
+      "projectPath": "D:\\Documents\\Job_Projects_And_CV\\GithubProjects\\VendingMachineGameConsole\\VendingMachineGameConsole\\VendingMachineGameConsole.csproj",
+      "packagesPath": "C:\\Users\\Elija\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Job_Projects_And_CV\\GithubProjects\\VendingMachineGameConsole\\VendingMachineGameConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Elija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Documents\\Job_Projects_And_CV\\GithubProjects\\VendingMachineGameConsole\\VendingMachineLibrary\\VendingMachineLibrary.csproj": {
+              "projectPath": "D:\\Documents\\Job_Projects_And_CV\\GithubProjects\\VendingMachineGameConsole\\VendingMachineLibrary\\VendingMachineLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
